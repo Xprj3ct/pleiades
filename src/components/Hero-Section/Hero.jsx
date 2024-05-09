@@ -103,15 +103,15 @@ const Hero = () => {
               </svg>
             </a>
           </div>
-          <div className="absolute z-[1] top-[-10px] lg:top-[-400px] right-0 shadow-2xl">
+          <div className="absolute z-[2] top-[-100px] lg:top-[-40px] right-0 shadow-2xl">
             <img
               src="https://yorxsm.sirv.com/Images/image-from-rawpixel-id-12392702-png.png"
               alt=""
               loading="lazy"
               decoding="async"
-              width="1190"
-              height="1004"
-              className="w-50 hidden md:flex h-50 d-block rounded-lg"
+              width="990"
+              height="904"
+              className="hidden md:flex d-block rounded-lg"
             />
           </div>
           {/* <div className='md:my- my-10'>
